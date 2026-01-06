@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <?grc format='1' created='3.7.13'?>
 <flow_graph>
-  <timestamp>Thu May 21 15:01:54 2020</timestamp>
   <block>
     <key>options</key>
     <param>
@@ -1081,3 +1080,4 @@
     <sink_key>0</sink_key>
   </connection>
 </flow_graph>
+
